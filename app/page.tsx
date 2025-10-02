@@ -1,9 +1,9 @@
-import Image from "next/image";
+// import Image from "next/image";
 
 export default function Home() {
   return (
    <div className="main">
-    <p>Welcome Mu Ka Hbaw Aye</p>
+    <p>Welcome Mu Ka Hbaw</p>
    </div>
   );
 }
